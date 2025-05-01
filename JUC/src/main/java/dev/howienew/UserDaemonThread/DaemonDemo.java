@@ -4,7 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * ClassName: DaemonDemo
- * Package: dev.howienew.UserDeamonThread
+ * Package: dev.howienew.UserDaemonThread
  * Description:
  *
  * @Author: Howie-New
@@ -26,6 +26,7 @@ public class DaemonDemo {
                 System.out.println(Thread.currentThread().getName() + " is still running");
             }
         }, "t1");
+        //This method must be invoked before the thread is started.
         t1.setDaemon(true);
         t1.start();
 
