@@ -1,0 +1,12 @@
+1.获得结果和触发计算
+![img_1.png](img_1.png)
+2.对计算结果进行处理
+![img_2.png](img_2.png)
+3.对计算结果进行消费
+![img.png](img.png)
+4.线程池运行选择
+![img_3.png](img_3.png)
+5.对计算速度进行选择
+![img_4.png](img_4.png)
+6.对计算结果进行合并
+![img_5.png](img_5.png)
