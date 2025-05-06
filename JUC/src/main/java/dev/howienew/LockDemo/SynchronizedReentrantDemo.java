@@ -1,4 +1,4 @@
-package dev.howienew.lockdemo;
+package dev.howienew.LockDemo;
 
 /**
  * ClassName: SynchronizedReentrantDemo

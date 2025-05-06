@@ -1,4 +1,4 @@
-package dev.howienew.interruptDemo;
+package dev.howienew.InterruptDemo;
 
 import java.util.concurrent.TimeUnit;
 
